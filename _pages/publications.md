@@ -25,12 +25,12 @@ Accepted
 Journal papers
 ------
 
-1. Keyvanpour, M R., **Vahidian, Sh.**, Mirzakhani, Z.: *An Analytical Review of Texture Feature Extraction Approaches*, International Journal of Computer Applications in Technology, 2021, 65(2): 118–133. [[link]](https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2021.114990)
+1. Keyvanpour, M R., **Vahidian, Sh.**, Mirzakhani, Z.: *An Analytical Review of Texture Feature Extraction Approaches*, International Journal of Computer Applications in Technology, 2021, 65(2): 118–133. [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2021.114990)
 
-1. Keyvanpour, M R., **Vahidian, Sh.**, Ramezani, M.: *HMR-Vid: A Comparative Analytical Survey on Human Motion Recognition in Video Data*, International Journal of Multimedia Tools and Applications, 2020, 79(43): 31819-31863. [[link]](https://link.springer.com/article/10.1007/s11042-020-09485-2)
+1. Keyvanpour, M R., **Vahidian, Sh.**, Ramezani, M.: *HMR-Vid: A Comparative Analytical Survey on Human Motion Recognition in Video Data*, International Journal of Multimedia Tools and Applications, 2020, 79(43): 31819-31863. [link](https://link.springer.com/article/10.1007/s11042-020-09485-2)
 
 
 Conference papers
 ------
 
-1. **VahidianSadegh, Sh.**, Wiese, L., Smith, Brenner, M.: *SeCCA: Homomorphic Encryption Based Privacy Preservation Scheme for Biclustering Algorithm*, 34th Crypto-Day 2022, Weiden i.d.Opf., Germany. [[link]](https://dl.gi.de/bitstream/handle/20.500.12116/38751/CryptoDayMatters34-04-VahidianSadegh.pdf?sequence=1&isAllowed=y)
+1. **VahidianSadegh, Sh.**, Wiese, L., Smith, Brenner, M.: *SeCCA: Homomorphic Encryption Based Privacy Preservation Scheme for Biclustering Algorithm*, 34th Crypto-Day 2022, Weiden i.d.Opf., Germany. [link](https://dl.gi.de/bitstream/handle/20.500.12116/38751/CryptoDayMatters34-04-VahidianSadegh.pdf?sequence=1&isAllowed=y)
