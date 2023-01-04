@@ -1,16 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For the full list of academic publications, see my [CV]() or check out my [Google Scholar](https://scholar.google.com/citations?user=d7mbGbO9XCwC&hl=en), [Researchgate](https://www.researchgate.net/profile/Shokofeh-Vahidiansadegh) profile. 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
