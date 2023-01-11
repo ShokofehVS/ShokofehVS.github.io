@@ -34,6 +34,29 @@ Work experience
   * Tehran, Iran 
   * Duties included: Implementing End-to-end test automation using Selenium WebDriver, and Nightwatch framework
   
+Projects
+======
+* DEc. 2022 -- present: Secured Biclusterings - Cheng and Church Algorithm (SecBic-CCA)
+  * Goethe University Frankfurt
+  * Frankfurt am Main, Germany
+  * Homomorphically biclustering algorithms (Cheng and Church Algorithm) over gene expression data using CKKS scheme and Pyfhel library
+  
+* Jan. 2022 -- May. 2022: Secured Cheng and Church Algorithm (SeCCA)
+  * Goethe University Frankfurt
+  * Frankfurt am Main, Germany
+  * Analyzed encrypted gene expression data by biclustering algorithm using fully homomorphic encryption library (i.e., Pyfhel)
+  
+* Dec. 2021: Predicting the Risk of Chronic Kidney Disease
+  * Alzahra Universityt
+  * Tehran, Iran 
+  * Performed machine learning algorithms on a data set of Chronic Kidney Disease (CKD)
+
+* Oct. 2015 – Mar. 2016: Dental Clinical Management Software
+  * Dr. Shariati Vocational and Technical Girls College
+  * Tehran, Iran 
+  * Implemented dental clinical management software with necessary functionalities such as sharing and retrieval of stored patient information
+
+  
 Skills
 ======
 * Skill 1
@@ -43,11 +66,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
