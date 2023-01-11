@@ -55,8 +55,42 @@ Projects
   * Dr. Shariati Vocational and Technical Girls College
   * Tehran, Iran 
   * Implemented dental clinical management software with necessary functionalities such as sharing and retrieval of stored patient information
-
   
+Awards & Honors 
+======
+* 2021: Awarded a GRADE Starting scholarship at Goethe University Frankfurt for 3 months
+  * Goethe University Frankfurt
+  * Frankfurt am Main, Germany
+
+Certificates & Courses
+======
+* Feb. 2021: RNA-seq Data Analysis
+  * CodeCool Bioinformatics Group
+  * Tehran, Iran
+  
+* Dec. 2019 -- Jun. 2020: Advanced/ Fundamentals Big Data Analytics
+  * Institute of Faratar Az Danesh
+  * Tehran, Iran
+
+* Sep. 2018: Python Programming
+  * Institute of Iran Linux House
+  * Tehran, Iran
+
+* Jun. 2013 -- Sep. 2014: ACCP Microsoft
+  * Institute of Aptech Computer Education
+  * Tehran, Iran
+
+Languages
+======
+* Proficiency Tests:
+  * IELTS Academic 7 (Jun 2022): Listening 6.5, Reading 7.5, Writing 6.5, Speaking 6.5
+  
+* Germans:
+  * Beginner (Level A2)
+  
+* Persian:
+  * Native
+
 Skills
 ======
 * Skill 1
@@ -67,12 +101,6 @@ Skills
 * Skill 3
 
 
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
