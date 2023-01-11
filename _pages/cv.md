@@ -33,10 +33,16 @@ Work experience
   * Datis Arian Qeshm (Dotin)
   * Tehran, Iran 
   * Duties included: Implementing End-to-end test automation using Selenium WebDriver, and Nightwatch framework
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Projects
 ======
-* DEc. 2022 -- present: Secured Biclusterings - Cheng and Church Algorithm (SecBic-CCA)
+* Dec. 2022 -- present: Secured Biclusterings - Cheng and Church Algorithm (SecBic-CCA)
   * Goethe University Frankfurt
   * Frankfurt am Main, Germany
   * Homomorphically biclustering algorithms (Cheng and Church Algorithm) over gene expression data using CKKS scheme and Pyfhel library
