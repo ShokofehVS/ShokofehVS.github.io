@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Shokofeh VahidianSadegh"
-  avatar           : "images/1.jpg"
+  avatar           : "1.jpg"
   bio              : "Ph.D. Student at Goethe-Universität Frankfurt am Main; working on the analysis of encrypted genomic data (like gene expression data) by the state-of-the-art machine learning algorithms with Homomorphic Encryption. "
   location         : "Frankfurt am Main, Germany"
   employer         : "Goethe-Universität Frankfurt"
@@ -172,9 +172,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -202,15 +199,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _lab-team
-  - scope:
-      path: ""
-      type: lab-team
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: false
   # _publications
   - scope:
       path: ""
@@ -220,15 +208,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _on-media
-  - scope:
-      path: ""
-      type: on-media
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
