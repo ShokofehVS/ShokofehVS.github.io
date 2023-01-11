@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Software Engineering, Dr. Shariati Vocational and Technical Girls College, 2012 - 2016
+* M.S. in Computer Software Engineering, Alzahra University, 2017 - 2019
+* Ph.D in Computer Science, Goethe University Frankfurt, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 - present: Researcher at CloudDB Project
+  * Goethe University Frankfurt
+  * Frankfurt am Main, Germany
+  * Duties included: Working on privacy-preserving biclustering algorithms over gene expression data with fully homomorphic encryption libraries
+  * Supervisor: Prof. Dr. Lena Wiese
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2019: Researcher in Data mining Laboratory
+  * Alzahra University
+  * Tehran, Iran
+  * Duties included: Studying fundamental principles and the state-of-the-art techniques of data mining in bioinformatics
+  * Supervisor: Prof. Dr. Mohammad Reza Keyvanpour
+
+* 2016 - 2020: Software Test Engineer
+  * Datis Arian Qeshm (Dotin)
+  * Tehran, Iran 
+  * Duties included: Implementing End-to-end test automation using Selenium WebDriver, and Nightwatch framework
   
 Skills
 ======
