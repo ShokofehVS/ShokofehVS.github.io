@@ -93,21 +93,24 @@ Languages
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming Languages
+  * Python -- Encrypted Gene Expression Analysis
+  * Java -- White-box testing of Dotin software products
+  
+* Applied Software
+  * Fully Homomorphic Encryption Libraries --  SEAL, Pyfhel, Concrete(numpy)
+  * Hadoop Ecosystem (HDFS, YARN, MapReduce) -- Cluster Deployment and Management
+  * Apache Zeppelin, Anaconda, PyCharm, RapidMiner
+  * Oracle VM VirtualBox, VMware, Ubuntu Oracle SQL Developer, Microsoft SQL Server
+  * Oracle SQL Developer, Microsoft SQL Server
 
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
