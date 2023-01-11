@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Software Engineering, Dr. Shariati Vocational and Technical Girls College, 2012 - 2016
-* M.S. in Computer Software Engineering, Alzahra University, 2017 - 2019
 * Ph.D in Computer Science, Goethe University Frankfurt, 2025 (expected)
+* M.S. in Computer Software Engineering, Alzahra University, 2017 - 2019
+* B.S. in Computer Software Engineering, Dr. Shariati Vocational and Technical Girls College, 2012 - 2016
 
 Work experience
 ======
