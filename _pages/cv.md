@@ -34,11 +34,11 @@ Work experience
   * Tehran, Iran 
   * Duties included: Implementing End-to-end test automation using Selenium WebDriver, and Nightwatch framework
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Projects
 ======
