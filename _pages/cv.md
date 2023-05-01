@@ -67,6 +67,10 @@ Awards & Honors
 * 2021: Awarded a GRADE Starting scholarship at Goethe University Frankfurt for 3 months
   * Goethe University Frankfurt
   * Frankfurt am Main, Germany
+  
+* 2023: Awarded a DAAD Bridge Scholarship Iran for 3 months
+  * Goethe University Frankfurt
+  * Frankfurt am Main, Germany
 
 Certificates & Courses
 ======
