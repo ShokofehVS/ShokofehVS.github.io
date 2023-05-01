@@ -13,7 +13,7 @@ For the full list of academic publications, see my [CV]() or check out my [Googl
 In prepration 
 ------
 
-1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L., Rausch, J.: *SecBic-CCA: Biclustering of Gene Expression Data Using CKKS Homomorphic Scheme*, Journal of Information Security and Applications (JISA), in preperation. 
+1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-CCA: Biclustering of Gene Expression Data Using CKKS Homomorphic Scheme*, Journal of Information Security and Applications (JISA), in preperation. 
 
 
 Accepted
