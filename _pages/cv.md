@@ -42,6 +42,11 @@ Work experience
   
 Projects
 ======
+* May. 2023 -- present: Secured Biclusterings - Bi-Correlation Clustering Algorithm (SecBic-BCCA)
+  * Goethe University Frankfurt
+  * Frankfurt am Main, Germany
+  * Homomorphically biclustering algorithms (Bi-Correlation Clustering Algorithm) over gene expression data using CKKS scheme and Pyfhel library
+  
 * Dec. 2022 -- present: Secured Biclusterings - Cheng and Church Algorithm (SecBic-CCA)
   * Goethe University Frankfurt
   * Frankfurt am Main, Germany
