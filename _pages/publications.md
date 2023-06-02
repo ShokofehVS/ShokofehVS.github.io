@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For the full list of academic publications, see my [CV]() or check out my [Google Scholar](https://scholar.google.com/citations?user=d7mbGbO9XCwC&hl=en), [Researchgate](https://www.researchgate.net/profile/Shokofeh-Vahidiansadegh) profile. 
+For the full list of academic publications, check out my [Google Scholar](https://scholar.google.com/citations?user=d7mbGbO9XCwC&hl=en), or [Researchgate](https://www.researchgate.net/profile/Shokofeh-Vahidiansadegh) profile. 
 
 **The data and codes which are not publicly released might be available upon request.**
 
