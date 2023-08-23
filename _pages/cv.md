@@ -20,7 +20,7 @@ Work experience
 * 2022 - present: Researcher at CloudDB Project
   * Goethe University Frankfurt
   * Frankfurt am Main, Germany
-  * Duties included: Working on privacy-preserving biclustering algorithms over gene expression data with fully homomorphic encryption libraries
+  * Duties included: Working on privacy-preserving biclustering algorithms over gene expression data with advanced cryptography techniques 
   * Supervisor: Prof. Dr. Lena Wiese
 
 * 2017 - 2019: Researcher in Data mining Laboratory
@@ -47,7 +47,7 @@ Projects
   * Frankfurt am Main, Germany
   * Homomorphically biclustering algorithms (Bi-Correlation Clustering Algorithm) over gene expression data using CKKS scheme and Pyfhel library
   
-* Dec. 2022 -- present: Secured Biclusterings - Cheng and Church Algorithm (SecBic-CCA)
+* Dec. 2022 -- June 2023: Secured Biclusterings - Cheng and Church Algorithm (SecBic-CCA)
   * Goethe University Frankfurt
   * Frankfurt am Main, Germany
   * Homomorphically biclustering algorithms (Cheng and Church Algorithm) over gene expression data using CKKS scheme and Pyfhel library
@@ -58,7 +58,7 @@ Projects
   * Analyzed encrypted gene expression data by biclustering algorithm using fully homomorphic encryption library (i.e., Pyfhel)
   
 * Dec. 2021: Predicting the Risk of Chronic Kidney Disease
-  * Alzahra Universityt
+  * Alzahra University
   * Tehran, Iran 
   * Performed machine learning algorithms on a data set of Chronic Kidney Disease (CKD)
 
