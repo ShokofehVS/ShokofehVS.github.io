@@ -10,7 +10,7 @@ For the full list of academic publications, check out my [Google Scholar](https:
 **The data and codes which are not publicly released might be available upon request.**
 
 
-In prepration 
+In preparation 
 ------
 
 1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-CCA: Biclustering of Gene Expression Data Using CKKS Homomorphic Scheme*, in preparation. 
@@ -35,5 +35,5 @@ Journal papers
 Conference papers
 ------
 
-1. **VahidianSadegh, Sh.**, Wiese, L., Brenner, M.: *SeCCA: Homomorphic Encryption Based Privacy Preservation Scheme for Biclustering Algorithm*, 34th Crypto-Day 2022, Weiden i.d.Opf., Germany. [link](https://dl.gi.de/bitstream/handle/20.500.12116/38751/CryptoDayMatters34-04-VahidianSadegh.pdf?sequence=1&isAllowed=y)
-2. **VahidianSadegh, Sh.**, Wiese, L., Brenner, M.: *SeCCA: Towards Privacy-Preserving Biclustering Algorithm with Homomorphic Encryptions*, Part of the IFIP Advances in Information and Communication Technology book series (IFIPAICT,volume 671), 2023. [link](https://link.springer.com/chapter/10.1007/978-3-031-31971-6_15)
+1. **VahidianSadegh, Sh.**, Wiese, L., Brenner, M.: *SeCCA: Towards Privacy-Preserving Biclustering Algorithm with Homomorphic Encryptions*, IFIP International Summer School on Privacy and Identity Management, 2022: 198–213. [link](https://link.springer.com/chapter/10.1007/978-3-031-31971-6_15)
+2. **VahidianSadegh, Sh.**, Wiese, L., Brenner, M.: *SeCCA: Homomorphic Encryption Based Privacy Preservation Scheme for Biclustering Algorithm*, 34th Crypto-Day 2022, Weiden i.d.Opf., Germany. [link](https://dl.gi.de/bitstream/handle/20.500.12116/38751/CryptoDayMatters34-04-VahidianSadegh.pdf?sequence=1&isAllowed=y)
