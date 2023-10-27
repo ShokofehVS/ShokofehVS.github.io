@@ -11,28 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Goethe University Frankfurt, 2025 (expected)
+* Ph.D. in Computer Science, Goethe University Frankfurt, 2025 (expected)
 * M.S. in Computer Software Engineering, Alzahra University, 2017 - 2019
 * B.S. in Computer Software Engineering, Dr. Shariati Vocational and Technical Girls College, 2012 - 2016
 
 Work experience
 ======
-* 2022 - present: Researcher at CloudDB Project
-  * Goethe University Frankfurt
+* 2022 - present: Applied Cryptography Engineer/ Researcher
+  * Database Technologies and Data Analytics Research Group, Goethe University Frankfurt
   * Frankfurt am Main, Germany
-  * Duties included: Working on privacy-preserving biclustering of gene expression data with advanced cryptography techniques, Leading a team of Python programmers and cybersecurity engineers
-  * Supervisor: Prof. Dr. Lena Wiese
+  * Duties included:
+      *  Developed the first comparative platform for privacy-preserving biclustering algorithms by homomorphic encryption technique that enabled the computation of sensitive genomic data directly on encrypted data.
+      *  Designed a mixed protocol machine learning framework that integrated two advanced cryptography schemes, including CKKS and functional secret sharing to provide the first fully secure workflow for biclustering algorithms.
+      * Balanced accuracy and performance with the security guarantees; while improving upon existing works in the domain, resulting in 83.38% accuracy compared to the non-encrypted algorithm.
+      * Spearheaded the successful implementation of comprehensive pipelines for analyzing medical data provided by Frankfurt University Hospital, employing specialized biclustering algorithms that enhanced understanding of gene expression.
+      *  Managed a team of Python programmers to deliver open-source projects with publications in the top-ranking conferences.
 
-* 2017 - 2019: Researcher in Data mining Laboratory
-  * Alzahra University
+* 2016 - 2020: Business Analyst and Software Test Engineer
+  * Card Management System Team, Datis Arian Queshm (Dotin) Company
   * Tehran, Iran
-  * Duties included: Studying fundamental principles and the state-of-the-art techniques of data mining in bioinformatics
-  * Supervisor: Prof. Dr. Mohammad Reza Keyvanpour
+  * Duties included:
+    * Implemented end-to-end test automation using Selenium WebDriver and the Nightwatch framework, resulting in a 45% increase in test coverage, and reducing manual testing of functions like requesting new cards.
+    * Identified and resolved critical bottlenecks in test execution, resulting in a 60% increase in test throughput and a 25% reduction in the overall time required for regression testing.
+    * Engaged with stakeholders and clients to model and document 50+ requests with precision in Confluence, driving efficient project delivery and fostering effective communication across teams.
 
-* 2016 - 2020: Software Test Engineer
-  * Datis Arian Qeshm (Dotin)
+* 2017 - 2019: Biomedical Data Analyst
+  * Data Mining Lab, Alzahra University
   * Tehran, Iran 
-  * Duties included: Implementing end-to-end test automation using Selenium WebDriver, and Nightwatch framework
+  * Duties included:
+    * Leveraged a combination of machine learning algorithms and public healthcare data to identify patients with chronic kidney disease, enabling early intervention for effective disease management.
+    * Collaborated with the team members to prepare a novel comparative analytical framework for evaluating human motion recognition methods that simplified accurate selection by researchers in this field; published the result in a Q1 journal.
+    * Focused on one of the important steps in image registration to present an analytical framework that led to the development of texture feature extraction approaches; published the result in a top-ranking journal.
 
 <!-- Publications
 ======
@@ -42,43 +51,49 @@ Work experience
   
 Projects
 ======
-* July. 2023 -- present: Private Biclusterings - Cheng and Church Algorithm (PriBic-CCA)
-  * Goethe University Frankfurt
-  * Frankfurt am Main, Germany
-  * A series of Private Biclustering algorithms (PriBic) – Cheng and Church Algorithm (CCA) – using Mixed Protocol (FHE & 2PC) with Pyfhel and Funshade libraries over gene expression data sets
+* Aug. 2023 -- present: FedBics (Federated Biclustering Analysis)
+  * Series of federated biclustering analysis (FedBics) using MetisFL library
+    * FedBic-CCA (Federated Biclustering Analysis - Cheng and Church Algorithm)
     
-* May. 2023 -- present: Secured Biclusterings - Bi-Correlation Clustering Algorithm (SecBic-BCCA)
-  * Goethe University Frankfurt
-  * Frankfurt am Main, Germany
-  * A series of Secured Biclustering algorithms (SecBic) – Bi-Correlation Clustering Algorithm (BCCA) – using CKKS scheme with Pyfhel Library over gene expression data sets
+* July. 2023 -- present: PriBic-CCA (Private Biclustering Algorithms – Cheng and Church Algorithm)
+  * Core contributions:
+    * Mixed-protocol PPML framework (HE + MPC)
+    * Privacy-preserving evaluation of linear as well as non-linear operations
+    * Optimized building block:
+    
+* Aug. 2023 -- Sep. 2023: REMBics (Regulatory EleMents Biclustering Analysis)
+  * Analysis of regulatory elements stored in EpiRego database by biclustering algorithms into two projects:
+    *  REMBic-CCA (Regulatory EleMents Biclustering Analysis – Cheng and Church Algorithm)
+    *  REMBic-BCCA (Regulatory EleMents Biclustering Analysis – Bi-Correlation Clustering Algorithm)
   
-* Dec. 2022 -- June 2023: Secured Biclusterings - Cheng and Church Algorithm (SecBic-CCA)
-  * Goethe University Frankfurt
-  * Frankfurt am Main, Germany
-  * A series of Secured Biclustering algorithms (SecBic) – Cheng and Church Algorithm (CCA) – using CKKS scheme with Pyfhel library over gene expression data sets
+* Dec. 2022 -- Aug 2023: SecBics (Secured Biclustering Algorithms)
+  * Series of homomorphically biclustering algorithms (SecBics) using CKKS
+    * SecBic-CCA (Secured Biclustering algorithms - Cheng and Church Algorithm)
+      * Core Contributions:
+        * Privacy-preserving gene expression analysis based on CCA
+        * End-to-end homomorphically computation of Mean Squared Residue (MSR) (CKKS scheme + Pyfhel library)
+    * SecBic-BCCA (Secured Biclustering algorithms - Bi-Correlation Clustering Algorithm)
+      * Core Contributions:
+        * Privacy-preserving gene expression analysis based on BCCA
+        * End-to-end homomorphically computation of Pearson correlation coefficient (CKKS scheme + Pyfhel library)
+        * Apply encrypted Pearson correlation coefficient to other domain
   
 * Jan. 2022 -- May. 2022: Secured Cheng and Church Algorithm (SeCCA)
-  * Goethe University Frankfurt
-  * Frankfurt am Main, Germany
-  * Analyzed encrypted gene expression data by biclustering algorithm using a fully homomorphic encryption library (i.e., Pyfhel)
+  * Analyzed encrypted gene expression data by biclustering algorithm so-called Cheng and Church using fully homomorphic encryption library (i.e., Pyfhel) and BFV scheme for the first time.
   
 * Dec. 2021: Predicting the Risk of Chronic Kidney Disease
-  * Alzahra University
-  * Tehran, Iran 
   * Performed machine learning algorithms on a data set of Chronic Kidney Disease (CKD)
 
 * Oct. 2015 – Mar. 2016: Dental Clinical Management Software
-  * Dr. Shariati Vocational and Technical Girls College
-  * Tehran, Iran 
   * Implemented dental clinical management software with necessary functionalities such as sharing and retrieval of stored patient information
   
 Awards & Honors 
 ======
-* 2023: Awarded a DAAD Bridge Scholarship Iran for 3 months
+* 2023: DAAD Bridge Scholarships Iran, 2023
   * Goethe University Frankfurt
   * Frankfurt am Main, Germany
     
-* 2021: Awarded a GRADE Starting scholarship at Goethe University Frankfurt for 3 months
+* 2021: Starting Scholarships for International Doctoral Candidates
   * Goethe University Frankfurt
   * Frankfurt am Main, Germany
   
@@ -103,26 +118,24 @@ Certificates & Courses
 Languages
 ======
 * Proficiency Tests:
-  * IELTS Academic 7 (Jun 2022): Listening 6.5, Reading 7.5, Writing 6.5, Speaking 6.5
+  * IELTS Academic 7 (Jun 2022)
   
 * Germans:
-  * Beginner (Level A2)
+  * Intermediate (Level B1)
   
 * Persian:
   * Native
 
 Skills
 ======
-* Programming Languages
-  * Python -- Encrypted Gene Expression Analysis
-  * Java -- White-box testing of Dotin software products
-  
-* Applied Software
-  * Advanced Cryptography Libraries -- Pyfhel (FHE), Funshade (MPC), MetisFL (FL)
-  * Hadoop Ecosystem (HDFS, YARN, MapReduce) -- Cluster Deployment and Management
-  * Apache Zeppelin, Anaconda, PyCharm, RapidMiner
-  * Oracle VM VirtualBox, VMware, Ubuntu Oracle SQL Developer, Microsoft SQL Server
-  * Oracle SQL Developer, Microsoft SQL Server
+* Technical Skills
+  * Privacy-preserving Machine Learning: Fully Homomorphic Encryption (Pyfhel), Multi-party Computation (Funshade), Federated Learning (MetisFL)
+  * Programming Language: Python, Java, C#
+  * Big Data Components: Hadoop ecosystem (HDFS, YARN, MapReduce), ingestion and integration (sqoop, Flume, Kafka), stream and batch processing (Apache Spark and Pig)
+  * Data Analytics and Visualizations: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+  * Database Management Systems: MySQL, Microsoft SQL Server, Oracle Database, Cassandra
+  * Development Platforms: PyCharm, Anaconda, Apache Zeppelin, Jupyter Notebook
+  * Version Control: Git
 
   
 <!-- Teaching
