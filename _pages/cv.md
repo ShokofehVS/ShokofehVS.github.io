@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Goethe University Frankfurt, 2025 (expected)
+* Ph.D. in Computer Science, Goethe University Frankfurt, 2021 - present
 * M.S. in Computer Software Engineering, Alzahra University, 2017 - 2019
-* B.S. in Computer Software Engineering, Dr. Shariati Vocational and Technical Girls College, 2012 - 2016
+* B.S. in Computer Software Engineering, Dr. Shariati University, 2012 - 2016
 
 Work experience
 ======
-* 2022 - present: Applied Cryptography Engineer/ Researcher
-  * Database Technologies and Data Analytics Research Group, Goethe University Frankfurt
+* Jan. 2022 - present: Applied Cryptography Engineer/ Researcher
+  * Database Technologies and Data Analytics Group, Goethe University Frankfurt
   * Frankfurt am Main, Germany
   * Duties included:
       *  Developed the first comparative platform for privacy-preserving biclustering algorithms by homomorphic encryption technique that enabled the computation of sensitive genomic data directly on encrypted data.
@@ -27,7 +27,7 @@ Work experience
       * Spearheaded the successful implementation of comprehensive pipelines for analyzing medical data provided by Frankfurt University Hospital, employing specialized biclustering algorithms that enhanced understanding of gene expression.
       *  Managed a team of Python programmers to deliver open-source projects with publications in the top-ranking conferences.
 
-* 2016 - 2020: Business Analyst and Software Test Engineer
+* Oct. 2016 - Mar. 2020: Business Analyst and Software Test Engineer
   * Card Management System Team, Datis Arian Queshm (Dotin) Company
   * Tehran, Iran
   * Duties included:
@@ -35,7 +35,7 @@ Work experience
     * Identified and resolved critical bottlenecks in test execution, resulting in a 60% increase in test throughput and a 25% reduction in the overall time required for regression testing.
     * Engaged with stakeholders and clients to model and document 50+ requests with precision in Confluence, driving efficient project delivery and fostering effective communication across teams.
 
-* 2017 - 2019: Biomedical Data Analyst
+* Sep. 2017 - Feb. 2019: Biomedical Data Analyst
   * Data Mining Lab, Alzahra University
   * Tehran, Iran 
   * Duties included:
@@ -51,29 +51,25 @@ Work experience
   
 Projects
 ======
-* Aug. 2023 -- present: FedBics (Federated Biclustering Analysis)
+* Aug. 2023 -- present: FedBics
   * Series of federated biclustering analysis (FedBics) using MetisFL library
-    * FedBic-CCA (Federated Biclustering Analysis - Cheng and Church Algorithm)
     
-* July. 2023 -- present: PriBic-CCA (Private Biclustering Algorithms – Cheng and Church Algorithm)
-  * Core contributions:
+* July. 2023 -- present: PriBic-CCA
     * Mixed-protocol PPML framework (HE + MPC)
     * Privacy-preserving evaluation of linear as well as non-linear operations
-    * Optimized building block:
+    * Optimized building block
     
-* Aug. 2023 -- Sep. 2023: REMBics (Regulatory EleMents Biclustering Analysis)
+* Aug. 2023 -- Sep. 2023: REMBics 
   * Analysis of regulatory elements stored in EpiRego database by biclustering algorithms into two projects:
-    *  REMBic-CCA (Regulatory EleMents Biclustering Analysis – Cheng and Church Algorithm)
-    *  REMBic-BCCA (Regulatory EleMents Biclustering Analysis – Bi-Correlation Clustering Algorithm)
+    *  REMBic-CCA (Cheng and Church Algorithm)
+    *  REMBic-BCCA (Bi-Correlation Clustering Algorithm)
   
 * Dec. 2022 -- Aug 2023: SecBics (Secured Biclustering Algorithms)
   * Series of homomorphically biclustering algorithms (SecBics) using CKKS
     * SecBic-CCA (Secured Biclustering algorithms - Cheng and Church Algorithm)
-      * Core Contributions:
         * Privacy-preserving gene expression analysis based on CCA
         * End-to-end homomorphically computation of Mean Squared Residue (MSR) (CKKS scheme + Pyfhel library)
     * SecBic-BCCA (Secured Biclustering algorithms - Bi-Correlation Clustering Algorithm)
-      * Core Contributions:
         * Privacy-preserving gene expression analysis based on BCCA
         * End-to-end homomorphically computation of Pearson correlation coefficient (CKKS scheme + Pyfhel library)
         * Apply encrypted Pearson correlation coefficient to other domain
