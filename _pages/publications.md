@@ -15,7 +15,7 @@ In preparation
 
 1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-CCA: Biclustering of Gene Expression Data Using CKKS Homomorphic Scheme*, in preparation. 
 2. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-BCCA: Homomorphically Determination of Co-regulated Genes*, in preparation.
-3. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *PriBic-CCA: a Mixed Protocol for Private Biclustering of Gene Expression Data*, in preparation.
+<!--3. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *PriBic-CCA: a Mixed Protocol for Private Biclustering of Gene Expression Data*, in preparation.-->
 
 
 <!-- Accepted
