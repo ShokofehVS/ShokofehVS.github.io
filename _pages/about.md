@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science engineer with recent experience in computational biology and genomic privacy. My training encompasses data science, large-scale biomedical data analytics, proficiency in machine learning algorithms, and expertise in the Python programming language. With an overall +3 years, I have held roles as a test engineer and business analyst within an enterprise specializing in software development for the banking sector.
+I am a computer science engineer with recent experience in genomic privacy and forensic watermarking. My training encompasses data science, large-scale biomedical data analytics, proficiency in machine learning algorithms, and expertise in the Python programming language. With an overall +3 years, I have held roles as a test engineer and business analyst within enterprises specializing in software development for the banking sector and digital video markets.
 
 
 <!--Research Interest
