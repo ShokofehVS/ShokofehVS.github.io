@@ -17,6 +17,14 @@ Education
 
 Work experience
 ======
+* Jan. 2024 - present: Single-frame Forensic Watermarking QA Support/ Test Engineer
+  * QA Department, castLabs GmbH
+  * Berlin, Germany
+  * Duties included:
+      * Keeping the verification protocols up-to-date with the latest product enhancements.
+      * Developing automated testing procedures for the forensic watermarking solution.
+      * Executing QA tests, particularly focusing on forensic watermarking solution.
+
 * Jan. 2022 - present: Applied Cryptography Engineer/ Researcher
   * Database Technologies and Data Analytics Group, Goethe University Frankfurt
   * Frankfurt am Main, Germany
@@ -51,13 +59,9 @@ Work experience
   
 Projects
 ======
-* Aug. 2023 -- present: FedBics
-  * Series of federated biclustering analysis (FedBics) using MetisFL library
-    
-* July. 2023 -- present: PriBic-CCA
-    * Mixed-protocol PPML framework (HE + MPC)
+* Sep. 2023 -- present: FunBic-CCA
     * Privacy-preserving evaluation of linear as well as non-linear operations
-    * Optimized building block
+    * Optimized building block with MPC cryptography technique
     
 * Aug. 2023 -- Sep. 2023: REMBics 
   * Analysis of regulatory elements stored in EpiRego database by biclustering algorithms into two projects:
