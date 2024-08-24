@@ -21,9 +21,9 @@ Work experience
   * QA Department, castLabs GmbH
   * Berlin, Germany
   * Duties included:
-      * Keeping the verification protocols up-to-date with the latest product enhancements.
-      * Developing automated testing procedures for the forensic watermarking solution.
-      * Executing QA tests, particularly focusing on forensic watermarking solution.
+      * Kept the verification protocols up-to-date with the latest product enhancements.
+      * Developed automated testing procedures for the forensic watermarking solution.
+      * Executed QA tests, particularly focusing on forensic watermarking solution.
 
 * Jan. 2022 - present: Applied Cryptography Engineer/ Researcher
   * Database Technologies and Data Analytics Group, Goethe University Frankfurt
@@ -59,16 +59,11 @@ Work experience
   
 Projects
 ======
-* Sep. 2023 -- present: FunBic-CCA
+* Jan. 2024 -- present: FunBic-CCA
     * Privacy-preserving evaluation of linear as well as non-linear operations
     * Optimized building block with MPC cryptography technique
-    
-* Aug. 2023 -- Sep. 2023: REMBics 
-  * Analysis of regulatory elements stored in EpiRego database by biclustering algorithms into two projects:
-    *  REMBic-CCA (Cheng and Church Algorithm)
-    *  REMBic-BCCA (Bi-Correlation Clustering Algorithm)
-  
-* Dec. 2022 -- Aug 2023: SecBics (Secured Biclustering Algorithms)
+      
+* Dec. 2022 -- Dec 2023: SecBics (Secured Biclustering Algorithms)
   * Series of homomorphically biclustering algorithms (SecBics) using CKKS
     * SecBic-CCA (Secured Biclustering algorithms - Cheng and Church Algorithm)
         * Privacy-preserving gene expression analysis based on CCA
@@ -77,6 +72,11 @@ Projects
         * Privacy-preserving gene expression analysis based on BCCA
         * End-to-end homomorphically computation of Pearson correlation coefficient (CKKS scheme + Pyfhel library)
         * Apply encrypted Pearson correlation coefficient to other domain
+          
+* Aug. 2023 -- Sep. 2023: REMBics 
+  * Analysis of regulatory elements stored in EpiRego database by biclustering algorithms into two projects:
+    *  REMBic-CCA (Cheng and Church Algorithm)
+    *  REMBic-BCCA (Bi-Correlation Clustering Algorithm)
   
 * Jan. 2022 -- May. 2022: Secured Cheng and Church Algorithm (SeCCA)
   * Analyzed encrypted gene expression data by biclustering algorithm so-called Cheng and Church using fully homomorphic encryption library (i.e., Pyfhel) and BFV scheme for the first time.
