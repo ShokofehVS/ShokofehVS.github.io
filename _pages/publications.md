@@ -10,18 +10,19 @@ For the full list of academic publications, check out my [Google Scholar](https:
 **The data and codes which are not publicly released might be available upon request.**
 
 
-In preparation 
+<!--In preparation 
 ------
 
 1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-CCA: Biclustering of Gene Expression Data Using CKKS Homomorphic Scheme*, in preparation. 
 2. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-BCCA: Homomorphically Determination of Co-regulated Genes*, in preparation.
-<!--3. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *PriBic-CCA: a Mixed Protocol for Private Biclustering of Gene Expression Data*, in preparation.-->
+3. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *PriBic-CCA: a Mixed Protocol for Private Biclustering of Gene Expression Data*, in preparation.-->
 
 
-<!-- Accepted
+Under review
 ------
 
-1. **VahidianSadegh, Sh.**, Wiese, L., Smith, Brenner, M.: *SeCCA: Towards Privacy-preserving Biclustering Algorithm with Homomorphic Encryptions*, PostProceeding Privacy and Identity Management, accepted. [[TBD]](TBD) -->
+1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *FunBic-CCA: Function Secret Sharing for Biclusterings Applied to Cheng and Church Algorithm*, Jun 2024.
+2. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-CCA: Biclustering of Gene Expression Data Using CKKS Homomorphic Scheme*, Jan 2024. 
 
 
 Journal papers
@@ -35,5 +36,6 @@ Journal papers
 Conference papers
 ------
 
-1. **VahidianSadegh, Sh.**, Wiese, L., Brenner, M.: *SeCCA: Towards Privacy-Preserving Biclustering Algorithm with Homomorphic Encryptions*, IFIP International Summer School on Privacy and Identity Management, 2022: 198–213. [link](https://link.springer.com/chapter/10.1007/978-3-031-31971-6_15)
-2. **VahidianSadegh, Sh.**, Wiese, L., Brenner, M.: *SeCCA: Homomorphic Encryption Based Privacy Preservation Scheme for Biclustering Algorithm*, 34th Crypto-Day 2022, Weiden i.d.Opf., Germany. [link](https://dl.gi.de/bitstream/handle/20.500.12116/38751/CryptoDayMatters34-04-VahidianSadegh.pdf?sequence=1&isAllowed=y)
+1. Schäfer, J., **VahidianSadegh, Sh.**, Nüttgens, H., Wiese, L., *Applicability of Homomorphic Encryption for Intrusion Detection*, 36th crypto day matters 2024, Regensburg, Germany. [link](https://dl.gi.de/bitstreams/e2440e52-a4a3-45e2-93c8-44ef7d61893d/download)
+2.  **VahidianSadegh, Sh.**, Wiese, L., Brenner, M.: *SeCCA: Towards Privacy-Preserving Biclustering Algorithm with Homomorphic Encryptions*, IFIP International Summer School on Privacy and Identity Management, 2023: 198–213. [link](https://link.springer.com/chapter/10.1007/978-3-031-31971-6_15)
+3. **VahidianSadegh, Sh.**, Wiese, L., Brenner, M.: *SeCCA: Homomorphic Encryption Based Privacy Preservation Scheme for Biclustering Algorithm*, 34th crypto day matters 2022, Weiden i.d.Opf., Germany. [link](https://dl.gi.de/bitstream/handle/20.500.12116/38751/CryptoDayMatters34-04-VahidianSadegh.pdf?sequence=1&isAllowed=y)
