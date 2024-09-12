@@ -21,8 +21,9 @@ For the full list of academic publications, check out my [Google Scholar](https:
 Under review
 ------
 
-1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *FunBic-CCA: Function Secret Sharing for Biclusterings Applied to Cheng and Church Algorithm*, Jun 2024.
-2. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-CCA: Biclustering of Gene Expression Data Using CKKS Homomorphic Scheme*, Jan 2024. 
+1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *PPBic: Privacy-Preserving Biclustering algorithm based on function secret sharing*, Sep 2024.
+2. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *FunBic-CCA: Function Secret Sharing for Biclusterings Applied to Cheng and Church Algorithm*, Jun 2024.
+3. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *SecBic-CCA: Biclustering of Gene Expression Data Using CKKS Homomorphic Scheme*, Jan 2024. 
 
 
 Journal papers
