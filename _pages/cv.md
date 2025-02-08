@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* Jan. 2024 - present: Single-frame Forensic Watermarking QA Support/ Test Engineer
+* Jan. 2024 - Jan. 2025: Single-frame Forensic Watermarking QA Support/ Test Engineer
   * QA Department, castLabs GmbH
   * Berlin, Germany
   * Duties included:
       * Kept the verification protocols up-to-date with the latest product enhancements.
-      * Developed automated testing procedures for the forensic watermarking solution.
-      * Executed QA tests, particularly focusing on forensic watermarking solution.
+      * Executed QA tests, particularly focusing on the Forensic Watermarking solution.
+      * Performed defect tracking & management in JIRA.
 
 * Jan. 2022 - present: Applied Cryptography Engineer/ Researcher
   * Database Technologies and Data Analytics Group, Goethe University Frankfurt
